@@ -27,9 +27,7 @@ Soy un apasionado de la tecnología con una base sólida en **Sistemas Microinfo
 ---
 
 ### 📈 Estadísticas de GitHub
-*Sustituye "TU_USUARIO" por tu nombre de usuario real de GitHub en 
 [![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com?user=kev312&theme=dark&hide_border=falso&border_radius=4.4&short_numbers=falso)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kev312&layout=compact&theme=tokyonight)
 
 ---
 
