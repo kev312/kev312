@@ -1,4 +1,4 @@
-# ¡Hola! Soy Kevin 👋 
+# ¡Hola! Soy Kevin Vivas
 
 ### 🚀 De los Sistemas al Desarrollo de Software
 Soy un apasionado de la tecnología con una base sólida en **Sistemas Microinformáticos y Redes (SMR)** y actualmente evolucionando como desarrollador en el Grado Superior de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi enfoque combina la eficiencia del software con un conocimiento profundo de la infraestructura que lo sostiene.
