@@ -32,5 +32,6 @@ Soy un apasionado de la tecnología con una base sólida en **Sistemas Microinfo
 ---
 
 ### 📫 Conecta conmigo
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kevin-vivas-alvites-b88b6927b)
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kev312.github.io)
