@@ -22,7 +22,7 @@
 ---
 
 ### 📈 Estadísticas de GitHub
-[![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com?user=kev312&theme=dark&hide_border=falso&border_radius=4.4&short_numbers=falso)](https://git.io/streak-stats)
+[![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com?user=fkevinnv&theme=dark&hide_border=falso&border_radius=4.4&short_numbers=falso)](https://git.io/streak-stats)
 
 ---
 
